@@ -1,0 +1,25 @@
+{
+  "jsc": {
+    "parser": {
+      "syntax": "typescript",
+      "tsx": true
+    },
+    "target": "es5",
+    "loose": true,
+    "minify": {
+      "compress": false,
+      "mangle": {
+        "toplevel": true,
+        "keep_classnames": false,
+        "keep_fnames": false,
+        "keep_private_props": false,
+        "ie8": true,
+        "safari10": true
+      }
+    }
+  },
+  "module": {
+    "type": "es6"
+  },
+  "minify": true
+}
