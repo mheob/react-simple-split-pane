@@ -44,7 +44,7 @@
     "@swc/core": "^1.2.246",
     "@types/react": "^18.0.18",
     "@types/react-dom": "^18.0.6",
-    "babel-loader": "^8.2.5",
+    "babel-loader": "^9.0.0",
     "eslint": "^8.23.0",
     "eslint-plugin-storybook": "^0.6.4",
     "lint-staged": "^13.0.3",
