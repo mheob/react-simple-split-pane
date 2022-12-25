@@ -30,7 +30,7 @@
   "devDependencies": {
     "@babel/core": "^7.18.13",
     "@mheob/eslint-config": "^4.0.0",
-    "@mheob/prettier-config": "^2.0.0",
+    "@mheob/prettier-config": "^3.0.0",
     "@storybook/addon-essentials": "^7.0.0-alpha.29",
     "@storybook/addon-storyshots": "^7.0.0-alpha.29",
     "@storybook/addon-storysource": "^7.0.0-alpha.29",
