@@ -54,7 +54,7 @@
     "simple-git-hooks": "^2.8.0",
     "storybook": "^7.0.0-alpha.29",
     "storybook-addon-swc": "^1.1.8",
-    "typescript": "^4.8.2",
+    "typescript": "^5.0.2",
     "webpack": "^5"
   },
   "peerDependencies": {
