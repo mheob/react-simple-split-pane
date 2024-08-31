@@ -55,7 +55,7 @@
     "storybook": "^7.0.0-alpha.29",
     "storybook-addon-swc": "^1.1.8",
     "typescript": "^5.0.2",
-    "webpack": "^5.76.0"
+    "webpack": "^5.94.0"
   },
   "peerDependencies": {
     "react": "^18",
